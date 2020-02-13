@@ -7,6 +7,6 @@
 
 ![Image of Login](/images/key-step-navigate-to-create.jpg)
 
-![Image of Login](/images/key-name.jpg)
+![Image of Login](/images/key-step-name.jpg)
 
-![Image of Login](/images/key-copy.jpg)
+![Image of Login](/images/key-step-copy.jpg)
